@@ -1,0 +1,5156 @@
+{
+  "header": [
+    {
+      "problemIndex": "A",
+      "name": "Hello world!"
+    },
+    {
+      "problemIndex": "B",
+      "name": "Выведи смайл"
+    },
+    {
+      "problemIndex": "C",
+      "name": "English is my friend"
+    },
+    {
+      "problemIndex": "D",
+      "name": "Вывести число"
+    }
+  ],
+  "rows": [
+    {
+      "groupNumber": 1,
+      "globalIndex": 0,
+      "rank": 1,
+      "displayRank": 1,
+      "penalty": 47,
+        "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Лев Саладников",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7492,
+        "username": "lshp-2022-142",
+        "email": null,
+        "firstName": "Лев",
+        "lastName": "Саладников",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666698638060,
+        "lastLoggedTimeMs": 1666696877409,
+        "registerTimeMs": 1656605403188,
+        "createdAt": "2022-06-30T16:10:03.000Z",
+        "updatedAt": "2022-10-25T11:50:38.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71648,
+          "joinTimeMs": 1662797723400,
+          "userId": 7492,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:01",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:13",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:16",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 1,
+      "rank": 2,
+      "displayRank": 2,
+      "penalty": 48,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Анна Муравлева",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 5078,
+        "username": "Pati_son",
+        "email": "annamur466@gmail.com",
+        "firstName": "Анна",
+        "lastName": "Муравлева",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666426967837,
+        "lastLoggedTimeMs": 1666077815639,
+        "registerTimeMs": 1632581635228,
+        "createdAt": "2021-09-25T14:53:55.000Z",
+        "updatedAt": "2022-10-22T08:22:47.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71650,
+          "joinTimeMs": 1662797749931,
+          "userId": 5078,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:01",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:14",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:16",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 2,
+      "rank": 3,
+      "displayRank": 3,
+      "penalty": 58,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "ярослав шумовский",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8097,
+        "username": "yaroslav2011_",
+        "email": "yroslavsh120@gmail.com",
+        "firstName": "ярослав",
+        "lastName": "шумовский",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694662453,
+        "lastLoggedTimeMs": 1666693786381,
+        "registerTimeMs": 1662797973525,
+        "createdAt": "2022-09-10T08:19:33.000Z",
+        "updatedAt": "2022-10-25T10:44:22.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71668,
+          "joinTimeMs": 1662798038323,
+          "userId": 8097,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:06",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:14",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:21",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 3,
+      "rank": 4,
+      "displayRank": 4,
+      "penalty": 61,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Лев Дерышев",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7093,
+        "username": "DerLD",
+        "email": "wolja83@gmail.com",
+        "firstName": "Лев",
+        "lastName": "Дерышев ",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666709755888,
+        "lastLoggedTimeMs": 1666696676985,
+        "registerTimeMs": 1649584960160,
+        "createdAt": "2022-04-10T10:02:40.000Z",
+        "updatedAt": "2022-10-25T14:55:55.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71642,
+          "joinTimeMs": 1662797712901,
+          "userId": 7093,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:02",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:18",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:20",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:21",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 4,
+      "rank": 5,
+      "displayRank": 5,
+      "penalty": 62,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Максим Греченков",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8078,
+        "username": "30032011Ма",
+        "email": "makcgrechenkov@mail.ru",
+        "firstName": "Максим",
+        "lastName": "Греченков",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666704660666,
+        "lastLoggedTimeMs": 1666692722144,
+        "registerTimeMs": 1662797280282,
+        "createdAt": "2022-09-10T08:08:00.000Z",
+        "updatedAt": "2022-10-25T13:31:00.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71676,
+          "joinTimeMs": 1662798170874,
+          "userId": 8078,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:09",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:16",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:18",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:19",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 5,
+      "rank": 6,
+      "displayRank": 6,
+      "penalty": 70,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Егор Морозов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8073,
+        "username": "Egorka1012",
+        "email": "egormorozov101210@gmail.com",
+        "firstName": "Егор",
+        "lastName": "Морозов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666698677799,
+        "lastLoggedTimeMs": 1666696744227,
+        "registerTimeMs": 1662760461526,
+        "createdAt": "2022-09-09T21:54:21.000Z",
+        "updatedAt": "2022-10-25T11:51:17.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71646,
+          "joinTimeMs": 1662797720514,
+          "userId": 8073,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+1",
+          "problemSymbol": "A",
+          "acceptedAt": "00:04",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:13",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:16",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 6,
+      "rank": 7,
+      "displayRank": 7,
+      "penalty": 72,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Илья Каган",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8092,
+        "username": "kagan1541",
+        "email": "kaganilya2012@gmail.com",
+        "firstName": "Илья",
+        "lastName": "Каган",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666693822853,
+        "lastLoggedTimeMs": 1666692551255,
+        "registerTimeMs": 1662797852988,
+        "createdAt": "2022-09-10T08:17:32.000Z",
+        "updatedAt": "2022-10-25T10:30:22.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71663,
+          "joinTimeMs": 1662797904722,
+          "userId": 8092,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:05",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:18",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:23",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:26",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 7,
+      "rank": 8,
+      "displayRank": 8,
+      "penalty": 87,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Таисия Волкова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8084,
+        "username": "cvest10",
+        "email": "lenafa@mail.ru",
+        "firstName": "Таисия",
+        "lastName": "Волкова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666431368911,
+        "lastLoggedTimeMs": 1666091401091,
+        "registerTimeMs": 1662797567203,
+        "createdAt": "2022-09-10T08:12:47.000Z",
+        "updatedAt": "2022-10-22T09:36:08.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71645,
+          "joinTimeMs": 1662797720496,
+          "userId": 8084,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:02",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:22",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:31",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:32",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 8,
+      "rank": 9,
+      "displayRank": 9,
+      "penalty": 91,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Михаил Терехов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8090,
+        "username": "MikhailTerekhov",
+        "email": "mihailterekhov924z@gmail.com",
+        "firstName": "Михаил",
+        "lastName": "Терехов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666695953299,
+        "lastLoggedTimeMs": 1666692756266,
+        "registerTimeMs": 1662797777759,
+        "createdAt": "2022-09-10T08:16:17.000Z",
+        "updatedAt": "2022-10-25T11:05:53.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71660,
+          "joinTimeMs": 1662797833711,
+          "userId": 8090,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:04",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:14",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:16",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 9,
+      "rank": 10,
+      "displayRank": 10,
+      "penalty": 98,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Савва Наймушин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7197,
+        "username": "persp29@yandex.ru",
+        "email": "persp29@yandex.ru",
+        "firstName": "Савва",
+        "lastName": "Наймушин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666722601902,
+        "lastLoggedTimeMs": 1666722360799,
+        "registerTimeMs": 1649773351781,
+        "createdAt": "2022-04-12T14:22:31.000Z",
+        "updatedAt": "2022-10-25T18:30:01.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71693,
+          "joinTimeMs": 1662799007507,
+          "userId": 7197,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:23",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:24",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:25",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:26",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 10,
+      "rank": 11,
+      "displayRank": 11,
+      "penalty": 130,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Лука Делла Пиетра",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8079,
+        "username": "luca",
+        "email": "luca9dp@gmail.com",
+        "firstName": "Лука",
+        "lastName": "Делла Пиетра",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666431757085,
+        "lastLoggedTimeMs": 1666076753953,
+        "registerTimeMs": 1662797400557,
+        "createdAt": "2022-09-10T08:10:00.000Z",
+        "updatedAt": "2022-10-22T09:42:37.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71647,
+          "joinTimeMs": 1662797721063,
+          "userId": 8079,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:04",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:20",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "00:24",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:22",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 11,
+      "rank": 12,
+      "displayRank": 12,
+      "penalty": 133,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Иван Алешковский",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8081,
+        "username": "GGKARASIK17@",
+        "email": "ttgtv07@gmail.com",
+        "firstName": "Иван",
+        "lastName": "Алешковский",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666767642577,
+        "lastLoggedTimeMs": 1666076797445,
+        "registerTimeMs": 1662797500776,
+        "createdAt": "2022-09-10T08:11:40.000Z",
+        "updatedAt": "2022-10-26T07:00:42.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71685,
+          "joinTimeMs": 1662798504038,
+          "userId": 8081,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:14",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "B",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "00:20",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:22",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 12,
+      "rank": 13,
+      "displayRank": 13,
+      "penalty": 135,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Dima Fadeichev",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8074,
+        "username": "DimaF1712",
+        "email": "fadeichevdmitrii1712@mail.ru",
+        "firstName": "Dima",
+        "lastName": "Fadeichev",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666428681024,
+        "lastLoggedTimeMs": 1666091646240,
+        "registerTimeMs": 1662788183951,
+        "createdAt": "2022-09-10T05:36:23.000Z",
+        "updatedAt": "2022-10-22T08:51:21.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71649,
+          "joinTimeMs": 1662797742021,
+          "userId": 8074,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:03",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:14",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "00:33",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:25",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 13,
+      "rank": 14,
+      "displayRank": "14-15",
+      "penalty": 137,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Марко Делла Пиетра",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7481,
+        "username": "lshp-2022-48",
+        "email": null,
+        "firstName": "Марко",
+        "lastName": "Делла Пиетра",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1664369103044,
+        "lastLoggedTimeMs": 1656657316957,
+        "registerTimeMs": 1656605403188,
+        "createdAt": "2022-06-30T16:10:03.000Z",
+        "updatedAt": "2022-09-28T12:45:03.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71641,
+          "joinTimeMs": 1662797705531,
+          "userId": 7481,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+1",
+          "problemSymbol": "A",
+          "acceptedAt": "00:01",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:16",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "00:21",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:19",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 14,
+      "rank": 14,
+      "displayRank": "14-15",
+      "penalty": 137,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Глеб Данилов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8091,
+        "username": "coolbuter2022@gmail.com",
+        "email": "coolbuter2022@gmail.com",
+        "firstName": "Глеб",
+        "lastName": "Данилов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666424334279,
+        "lastLoggedTimeMs": 1665482680715,
+        "registerTimeMs": 1662797788492,
+        "createdAt": "2022-09-10T08:16:28.000Z",
+        "updatedAt": "2022-10-22T07:38:54.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71666,
+          "joinTimeMs": 1662797952748,
+          "userId": 8091,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:08",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "00:29",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:23",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 15,
+      "rank": 16,
+      "displayRank": 16,
+      "penalty": 140,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Кирилл Чигвинцев",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7054,
+        "username": "Aglohc@yandex.ru",
+        "email": "Aglohc@yandex.ru",
+        "firstName": "Кирилл",
+        "lastName": "Чигвинцев",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666428555022,
+        "lastLoggedTimeMs": 1666077133896,
+        "registerTimeMs": 1649520211397,
+        "createdAt": "2022-04-09T16:03:31.000Z",
+        "updatedAt": "2022-10-22T08:49:15.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71664,
+          "joinTimeMs": 1662797904959,
+          "userId": 7054,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:07",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:19",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "00:25",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "D",
+          "acceptedAt": "00:29",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 16,
+      "rank": 17,
+      "displayRank": 17,
+      "penalty": 153,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Марк Матафонов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 4834,
+        "username": "MarkMata",
+        "email": "VikiMatafonova@yandex.ru",
+        "firstName": "Марк",
+        "lastName": "Матафонов ",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694612845,
+        "lastLoggedTimeMs": 1666692563488,
+        "registerTimeMs": 1632547391460,
+        "createdAt": "2021-09-25T05:23:11.000Z",
+        "updatedAt": "2022-10-25T10:43:32.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71662,
+          "joinTimeMs": 1662797903380,
+          "userId": 4834,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:07",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:13",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "00:24",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "00:29",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 17,
+      "rank": 18,
+      "displayRank": 18,
+      "penalty": 192,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Алиса Самарская",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8095,
+        "username": "Moskow@2010",
+        "email": "N.Samarskaya.2011@yandex.ru",
+        "firstName": "Алиса",
+        "lastName": "Самарская",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666714458924,
+        "lastLoggedTimeMs": 1666714369023,
+        "registerTimeMs": 1662797892597,
+        "createdAt": "2022-09-10T08:18:12.000Z",
+        "updatedAt": "2022-10-25T16:14:18.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71670,
+          "joinTimeMs": 1662798059728,
+          "userId": 8095,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:10",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:24",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "00:31",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "D",
+          "acceptedAt": "00:27",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 18,
+      "rank": 19,
+      "displayRank": 19,
+      "penalty": 194,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Ульяна Рокова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8107,
+        "username": "UlianaRokova29",
+        "email": "UlianaRokova29@gmail.com",
+        "firstName": "Ульяна",
+        "lastName": "Рокова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694687620,
+        "lastLoggedTimeMs": 1666692652601,
+        "registerTimeMs": 1662798193260,
+        "createdAt": "2022-09-10T08:23:13.000Z",
+        "updatedAt": "2022-10-25T10:44:47.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71680,
+          "joinTimeMs": 1662798241370,
+          "userId": 8107,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+3",
+          "problemSymbol": "A",
+          "acceptedAt": "00:30",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:32",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:35",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:37",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 19,
+      "rank": 20,
+      "displayRank": 20,
+      "penalty": 210,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Эва Панова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8087,
+        "username": "evelinapanov",
+        "email": "evapanova2012@yandex.ru",
+        "firstName": "Эва",
+        "lastName": "Панова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666695223349,
+        "lastLoggedTimeMs": 1666695223217,
+        "registerTimeMs": 1662797688017,
+        "createdAt": "2022-09-10T08:14:48.000Z",
+        "updatedAt": "2022-10-25T10:53:43.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71652,
+          "joinTimeMs": 1662797773005,
+          "userId": 8087,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+4",
+          "problemSymbol": "A",
+          "acceptedAt": "00:39",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:38",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:35",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:18",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 20,
+      "rank": 21,
+      "displayRank": 21,
+      "penalty": 212,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Филипп Гречишников",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7086,
+        "username": "1111",
+        "email": "grecfil9@gmail.com",
+        "firstName": "Филипп",
+        "lastName": "Гречишников",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666545008574,
+        "lastLoggedTimeMs": 1666077017813,
+        "registerTimeMs": 1649581487578,
+        "createdAt": "2022-04-10T09:04:47.000Z",
+        "updatedAt": "2022-10-23T17:10:08.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71659,
+          "joinTimeMs": 1662797821716,
+          "userId": 7086,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:03",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:14",
+          "inPractice": false
+        },
+        {
+          "result": "+6",
+          "problemSymbol": "C",
+          "acceptedAt": "00:35",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "00:20",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 21,
+      "rank": 22,
+      "displayRank": 22,
+      "penalty": 213,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Вероника Лютикова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8111,
+        "username": "veronica",
+        "email": "veronica.liutikova@gmail.com",
+        "firstName": "Вероника",
+        "lastName": "Лютикова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666428455383,
+        "lastLoggedTimeMs": 1666077141925,
+        "registerTimeMs": 1662798340172,
+        "createdAt": "2022-09-10T08:25:40.000Z",
+        "updatedAt": "2022-10-22T08:47:35.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71682,
+          "joinTimeMs": 1662798463329,
+          "userId": 8111,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+1",
+          "problemSymbol": "A",
+          "acceptedAt": "00:27",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:28",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "00:46",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:32",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 22,
+      "rank": 23,
+      "displayRank": 23,
+      "penalty": 216,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Даниил Шевкунов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8080,
+        "username": "live:.cid.af551ce9e21cc835",
+        "email": "fedichen@yandex.ru",
+        "firstName": "Даниил",
+        "lastName": "Шевкунов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666429260596,
+        "lastLoggedTimeMs": 1666077326008,
+        "registerTimeMs": 1662797461040,
+        "createdAt": "2022-09-10T08:11:01.000Z",
+        "updatedAt": "2022-10-22T09:01:00.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71654,
+          "joinTimeMs": 1662797783430,
+          "userId": 8080,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:03",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "B",
+          "acceptedAt": "00:44",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "00:41",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "00:48",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 23,
+      "rank": 24,
+      "displayRank": 24,
+      "penalty": 220,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Александр Левин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8112,
+        "username": "allevin0000@gmail.com",
+        "email": "allevin0000@gmail.com",
+        "firstName": "Александр",
+        "lastName": "Левин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1663347161372,
+        "lastLoggedTimeMs": 1662798527740,
+        "registerTimeMs": 1662798485695,
+        "createdAt": "2022-09-10T08:28:05.000Z",
+        "updatedAt": "2022-09-16T16:52:41.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71686,
+          "joinTimeMs": 1662798538463,
+          "userId": 8112,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:27",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:30",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "00:38",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "00:25",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 24,
+      "rank": 25,
+      "displayRank": 25,
+      "penalty": 222,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Максим Богданов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7205,
+        "username": "Bogdanovmaxnik",
+        "email": "danovmaxnik@yandex.ru",
+        "firstName": "Максим",
+        "lastName": "Богданов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666697894909,
+        "lastLoggedTimeMs": 1666697882347,
+        "registerTimeMs": 1649845976687,
+        "createdAt": "2022-04-13T10:32:56.000Z",
+        "updatedAt": "2022-10-25T11:38:14.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71657,
+          "joinTimeMs": 1662797796396,
+          "userId": 7205,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:02",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:20",
+          "inPractice": false
+        },
+        {
+          "result": "+5",
+          "problemSymbol": "C",
+          "acceptedAt": "00:34",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "D",
+          "acceptedAt": "00:26",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 25,
+      "rank": 26,
+      "displayRank": 26,
+      "penalty": 228,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Иван Кравчук",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7046,
+        "username": "Ivan121110",
+        "email": "olenka1830@gmail.com",
+        "firstName": "Иван",
+        "lastName": "Кравчук",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694778781,
+        "lastLoggedTimeMs": 1666692748410,
+        "registerTimeMs": 1649511613406,
+        "createdAt": "2022-04-09T13:40:13.000Z",
+        "updatedAt": "2022-10-25T10:46:18.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71658,
+          "joinTimeMs": 1662797796763,
+          "userId": 7046,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+3",
+          "problemSymbol": "A",
+          "acceptedAt": "00:25",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:46",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:48",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:49",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 26,
+      "rank": 27,
+      "displayRank": 27,
+      "penalty": 245,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Владимир Быков",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8085,
+        "username": "VladimirBykov2011",
+        "email": "mvbykova@mail.ru",
+        "firstName": "Владимир",
+        "lastName": "Быков",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666698414216,
+        "lastLoggedTimeMs": 1666697941429,
+        "registerTimeMs": 1662797677270,
+        "createdAt": "2022-09-10T08:14:37.000Z",
+        "updatedAt": "2022-10-25T11:46:54.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71653,
+          "joinTimeMs": 1662797776025,
+          "userId": 8085,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+6",
+          "problemSymbol": "A",
+          "acceptedAt": "00:24",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:25",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "00:28",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:28",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 27,
+      "rank": 28,
+      "displayRank": 28,
+      "penalty": 248,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Демьян Хлызов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8082,
+        "username": "dema",
+        "email": "demyni4y@yandex.ru",
+        "firstName": "Демьян",
+        "lastName": "Хлызов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666728172812,
+        "lastLoggedTimeMs": 1666713941024,
+        "registerTimeMs": 1662797515453,
+        "createdAt": "2022-09-10T08:11:55.000Z",
+        "updatedAt": "2022-10-25T20:02:52.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71643,
+          "joinTimeMs": 1662797712905,
+          "userId": 8082,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+4",
+          "problemSymbol": "A",
+          "acceptedAt": "00:33",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:35",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "00:39",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:41",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 28,
+      "rank": 29,
+      "displayRank": 29,
+      "penalty": 253,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Артемий Татаринов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7494,
+        "username": "lshp-2022-159",
+        "email": null,
+        "firstName": "Артемий",
+        "lastName": "Татаринов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694780162,
+        "lastLoggedTimeMs": 1666693960643,
+        "registerTimeMs": 1656605403189,
+        "createdAt": "2022-06-30T16:10:03.000Z",
+        "updatedAt": "2022-10-25T10:46:20.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71644,
+          "joinTimeMs": 1662797715381,
+          "userId": 7494,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:18",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "B",
+          "acceptedAt": "00:35",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "00:34",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "D",
+          "acceptedAt": "00:26",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 29,
+      "rank": 30,
+      "displayRank": 30,
+      "penalty": 273,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Eva Sheldeshova",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8075,
+        "username": "sheldeshova",
+        "email": "ask.evash@yandex.ru",
+        "firstName": "Eva",
+        "lastName": "Sheldeshova",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1665824478826,
+        "lastLoggedTimeMs": 1665820591821,
+        "registerTimeMs": 1662789153196,
+        "createdAt": "2022-09-10T05:52:33.000Z",
+        "updatedAt": "2022-10-15T09:01:18.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71692,
+          "joinTimeMs": 1662799003066,
+          "userId": 8075,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:32",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:33",
+          "inPractice": false
+        },
+        {
+          "result": "+4",
+          "problemSymbol": "C",
+          "acceptedAt": "00:47",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:41",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 30,
+      "rank": 31,
+      "displayRank": 31,
+      "penalty": 315,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Храпов Алексей",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8116,
+        "username": "Alex_06__",
+        "email": "a11012011@mail.ru",
+        "firstName": "Храпов",
+        "lastName": "Алексей",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694780197,
+        "lastLoggedTimeMs": 1666692554467,
+        "registerTimeMs": 1662801877209,
+        "createdAt": "2022-09-10T09:24:37.000Z",
+        "updatedAt": "2022-10-25T10:46:20.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71696,
+          "joinTimeMs": 1662801902139,
+          "userId": 8116,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "01:11",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "01:12",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "01:18",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "01:14",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 31,
+      "rank": 32,
+      "displayRank": 32,
+      "penalty": 360,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Владислав  Ходырев",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7099,
+        "username": "ВладХодырев",
+        "email": "Aakhodyreva@yandex.ru",
+        "firstName": "Владислав ",
+        "lastName": "Ходырев",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694354625,
+        "lastLoggedTimeMs": 1666693989943,
+        "registerTimeMs": 1649592175925,
+        "createdAt": "2022-04-10T12:02:55.000Z",
+        "updatedAt": "2022-10-25T10:39:14.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71691,
+          "joinTimeMs": 1662799000369,
+          "userId": 7099,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+1",
+          "problemSymbol": "A",
+          "acceptedAt": "00:44",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:45",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "01:47",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "01:44",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 32,
+      "rank": 33,
+      "displayRank": 33,
+      "penalty": 390,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Полина Шляхтина",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8106,
+        "username": "IloveLeo",
+        "email": "pollycho@bk.ru",
+        "firstName": "Полина",
+        "lastName": "Шляхтина",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666426500186,
+        "lastLoggedTimeMs": 1666091775024,
+        "registerTimeMs": 1662798137795,
+        "createdAt": "2022-09-10T08:22:17.000Z",
+        "updatedAt": "2022-10-22T08:15:00.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71679,
+          "joinTimeMs": 1662798239764,
+          "userId": 8106,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+3",
+          "problemSymbol": "A",
+          "acceptedAt": "00:17",
+          "inPractice": false
+        },
+        {
+          "result": "+6",
+          "problemSymbol": "B",
+          "acceptedAt": "00:30",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "00:29",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "D",
+          "acceptedAt": "00:34",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 33,
+      "rank": 34,
+      "displayRank": 34,
+      "penalty": 393,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Иван Сапрыкин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8086,
+        "username": "ivan.s",
+        "email": "ivan.ya.saprykin@gmail.com",
+        "firstName": "Иван",
+        "lastName": "Сапрыкин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666693730728,
+        "lastLoggedTimeMs": 1666692766591,
+        "registerTimeMs": 1662797683054,
+        "createdAt": "2022-09-10T08:14:43.000Z",
+        "updatedAt": "2022-10-25T10:28:50.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71684,
+          "joinTimeMs": 1662798479320,
+          "userId": 8086,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+3",
+          "problemSymbol": "A",
+          "acceptedAt": "00:42",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:21",
+          "inPractice": false
+        },
+        {
+          "result": "+6",
+          "problemSymbol": "C",
+          "acceptedAt": "00:40",
+          "inPractice": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "D",
+          "acceptedAt": "00:50",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 34,
+      "rank": 35,
+      "displayRank": 35,
+      "penalty": 421,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 4,
+      "user": {
+        "fullName": "Марк Судаков",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8099,
+        "username": "sudakov.mark.11@gmail.com",
+        "email": "sudakov.mark.11@gmail.com",
+        "firstName": "Марк",
+        "lastName": "Судаков",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694733393,
+        "lastLoggedTimeMs": 1666692939003,
+        "registerTimeMs": 1662797990344,
+        "createdAt": "2022-09-10T08:19:50.000Z",
+        "updatedAt": "2022-10-25T10:45:33.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71672,
+          "joinTimeMs": 1662798088844,
+          "userId": 8099,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+12",
+          "problemSymbol": "A",
+          "acceptedAt": "00:31",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "B",
+          "acceptedAt": "00:34",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:36",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "00:40",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 35,
+      "rank": 36,
+      "displayRank": 36,
+      "penalty": 1561,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Арсений Косенкин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8105,
+        "username": "akosenkin",
+        "email": "dkosenkin@rambler.ru",
+        "firstName": "Арсений",
+        "lastName": "Косенкин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666459628885,
+        "lastLoggedTimeMs": 1662798144568,
+        "registerTimeMs": 1662798125254,
+        "createdAt": "2022-09-10T08:22:05.000Z",
+        "updatedAt": "2022-10-25T10:53:31.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71675,
+          "joinTimeMs": 1662798157262,
+          "userId": 8105,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+3",
+          "problemSymbol": "A",
+          "acceptedAt": "05:38",
+          "inPractice": true
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "B",
+          "acceptedAt": "05:39",
+          "inPractice": true
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "05:49",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "05:55",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 36,
+      "rank": 37,
+      "displayRank": 37,
+      "penalty": 2049,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Maxim Kazakov",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 4547,
+        "username": "MaxK",
+        "email": "yulia_kazan@mail.ru",
+        "firstName": "Maxim",
+        "lastName": "Kazakov",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666696063887,
+        "lastLoggedTimeMs": 1666693006567,
+        "registerTimeMs": 1632481860549,
+        "createdAt": "2021-09-24T11:11:00.000Z",
+        "updatedAt": "2022-10-25T11:07:43.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71708,
+          "joinTimeMs": 1662827214367,
+          "userId": 4547,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+1",
+          "problemSymbol": "A",
+          "acceptedAt": "08:14",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "08:13",
+          "inPractice": true
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "08:21",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "08:21",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 37,
+      "rank": 38,
+      "displayRank": 38,
+      "penalty": 4497,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 1,
+      "user": {
+        "fullName": "Alexander Khoteenkov",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 5195,
+        "username": "adkhoteenkov@gmail.com",
+        "email": "adkhoteekov@gmail.com",
+        "firstName": "Alexander",
+        "lastName": "Khoteenkov",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666760859294,
+        "lastLoggedTimeMs": 1665474522529,
+        "registerTimeMs": 1632589431022,
+        "createdAt": "2021-09-25T17:03:51.000Z",
+        "updatedAt": "2022-10-26T05:07:39.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71640,
+          "joinTimeMs": 1662797703597,
+          "userId": 5195,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:00",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "24:58",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "24:59",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "25:00",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 38,
+      "rank": 39,
+      "displayRank": 39,
+      "penalty": 4754,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 3,
+      "user": {
+        "fullName": "Даниил Бочков",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8109,
+        "username": "ZztopzZ1",
+        "email": "d.bochkov2011@gmail.com",
+        "firstName": "Даниил",
+        "lastName": "Бочков",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694755200,
+        "lastLoggedTimeMs": 1666692495899,
+        "registerTimeMs": 1662798249167,
+        "createdAt": "2022-09-10T08:24:09.000Z",
+        "updatedAt": "2022-10-25T10:45:55.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71687,
+          "joinTimeMs": 1662798647272,
+          "userId": 8109,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+7",
+          "problemSymbol": "A",
+          "acceptedAt": "00:44",
+          "inPractice": false
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "B",
+          "acceptedAt": "00:45",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "00:49",
+          "inPractice": false
+        },
+        {
+          "result": "+4",
+          "problemSymbol": "D",
+          "acceptedAt": "72:36",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 39,
+      "rank": 40,
+      "displayRank": 40,
+      "penalty": 6471,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 2,
+      "user": {
+        "fullName": "Егор Мануйлов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8104,
+        "username": "makaka454547",
+        "email": "emanuilov19@gmail.com",
+        "firstName": "Егор",
+        "lastName": "Мануйлов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666430102469,
+        "lastLoggedTimeMs": 1666077280467,
+        "registerTimeMs": 1662798048794,
+        "createdAt": "2022-09-10T08:20:48.000Z",
+        "updatedAt": "2022-10-22T09:15:02.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71674,
+          "joinTimeMs": 1662798145275,
+          "userId": 8104,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:30",
+          "inPractice": false
+        },
+        {
+          "result": "+6",
+          "problemSymbol": "B",
+          "acceptedAt": "25:34",
+          "inPractice": true
+        },
+        {
+          "result": "+10",
+          "problemSymbol": "C",
+          "acceptedAt": "74:58",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "00:29",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 40,
+      "rank": 41,
+      "displayRank": 41,
+      "penalty": 8486,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 2,
+      "user": {
+        "fullName": "Семён Звягин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8088,
+        "username": "zeosim",
+        "email": "zeosim22@gmail.com",
+        "firstName": "Семён",
+        "lastName": "Звягин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666698638110,
+        "lastLoggedTimeMs": 1666696835277,
+        "registerTimeMs": 1662797744613,
+        "createdAt": "2022-09-10T08:15:44.000Z",
+        "updatedAt": "2022-10-25T11:50:38.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71651,
+          "joinTimeMs": 1662797770880,
+          "userId": 8088,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:14",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:22",
+          "inPractice": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "70:14",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "70:16",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 41,
+      "rank": 42,
+      "displayRank": 42,
+      "penalty": 8918,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 1,
+      "user": {
+        "fullName": "Денис Барамыгин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8101,
+        "username": "230511",
+        "email": "denisbaramygin@yandex.ru",
+        "firstName": "Денис",
+        "lastName": "Барамыгин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666526518261,
+        "lastLoggedTimeMs": 1665482498624,
+        "registerTimeMs": 1662798037886,
+        "createdAt": "2022-09-10T08:20:37.000Z",
+        "updatedAt": "2022-10-23T12:01:58.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71669,
+          "joinTimeMs": 1662798057656,
+          "userId": 8101,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:09",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "71:54",
+          "inPractice": true
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "71:58",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "02:37",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 42,
+      "rank": 43,
+      "displayRank": 43,
+      "penalty": 9947,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 1,
+      "user": {
+        "fullName": "вячеслав конников",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8083,
+        "username": "slavaded91",
+        "email": "konyakov.slava@bk.ru",
+        "firstName": "вячеслав",
+        "lastName": "конников",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666696829208,
+        "lastLoggedTimeMs": 1666696685472,
+        "registerTimeMs": 1662797541249,
+        "createdAt": "2022-09-10T08:12:21.000Z",
+        "updatedAt": "2022-10-25T11:20:29.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71661,
+          "joinTimeMs": 1662797854089,
+          "userId": 8083,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "00:06",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "54:59",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "55:00",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "55:02",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 43,
+      "rank": 44,
+      "displayRank": 44,
+      "penalty": 11476,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Алексей  Комолов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8123,
+        "username": "siamic9",
+        "email": "alexey.komolov10@gmail.com",
+        "firstName": "Алексей ",
+        "lastName": "Комолов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694720205,
+        "lastLoggedTimeMs": 1666692872324,
+        "registerTimeMs": 1662967683757,
+        "createdAt": "2022-09-12T07:28:03.000Z",
+        "updatedAt": "2022-10-25T10:45:20.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71727,
+          "joinTimeMs": 1662967715185,
+          "userId": 8123,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "47:42",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "47:43",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "47:45",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "48:06",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 44,
+      "rank": 45,
+      "displayRank": 45,
+      "penalty": 15143,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Семён Лукашевич",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7483,
+        "username": "Семн",
+        "email": null,
+        "firstName": "Семён",
+        "lastName": "Лукашевич",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694453964,
+        "lastLoggedTimeMs": 1666692749511,
+        "registerTimeMs": 1656605403188,
+        "createdAt": "2022-06-30T16:10:03.000Z",
+        "updatedAt": "2022-10-25T10:40:53.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71772,
+          "joinTimeMs": 1663010910084,
+          "userId": 7483,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "59:14",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "59:14",
+          "inPractice": true
+        },
+        {
+          "result": "+7",
+          "problemSymbol": "C",
+          "acceptedAt": "72:19",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "59:16",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 45,
+      "rank": 46,
+      "displayRank": 46,
+      "penalty": 37057,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Аделя Айметова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7081,
+        "username": "plavnaya@yandex.ru",
+        "email": "plavnaya@yandex.ru",
+        "firstName": "Аделя",
+        "lastName": "Айметова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694711917,
+        "lastLoggedTimeMs": 1666692551529,
+        "registerTimeMs": 1649577829324,
+        "createdAt": "2022-04-10T08:03:49.000Z",
+        "updatedAt": "2022-10-25T10:45:11.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 72041,
+          "joinTimeMs": 1663345693900,
+          "userId": 7081,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "152:34",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "154:28",
+          "inPractice": true
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "154:40",
+          "inPractice": true
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "D",
+          "acceptedAt": "154:35",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 46,
+      "rank": 47,
+      "displayRank": 47,
+      "penalty": 40312,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Иван Ильин",
+        "isAdmin": true,
+        "isModerator": false,
+        "isSupervisor": true,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 4096,
+          "name": "Admin"
+        },
+        "id": 7703,
+        "username": "i.ilin",
+        "email": "buran05@icloud.com",
+        "firstName": "Иван",
+        "lastName": "Ильин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666349865667,
+        "lastLoggedTimeMs": 1666349667458,
+        "registerTimeMs": 1658128306872,
+        "createdAt": "2022-07-18T07:11:46.000Z",
+        "updatedAt": "2022-10-21T10:57:45.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71683,
+          "joinTimeMs": 1662798463811,
+          "userId": 7703,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "167:57",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "167:57",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "167:58",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "168:00",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 47,
+      "rank": 48,
+      "displayRank": 48,
+      "penalty": 115347,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Елизавета Абдуллина",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8506,
+        "username": "Abdullinaeliza@mail.ru",
+        "email": "Abdullinaeliza@mail.ru",
+        "firstName": "Елизавета",
+        "lastName": "Абдуллина",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694645103,
+        "lastLoggedTimeMs": 1666692623524,
+        "registerTimeMs": 1663998281245,
+        "createdAt": "2022-09-24T05:44:41.000Z",
+        "updatedAt": "2022-10-25T10:44:05.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 73196,
+          "joinTimeMs": 1664006815089,
+          "userId": 8506,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "418:11",
+          "inPractice": true
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "B",
+          "acceptedAt": "503:23",
+          "inPractice": true
+        },
+        {
+          "result": "+9",
+          "problemSymbol": "C",
+          "acceptedAt": "577:57",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "418:16",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 48,
+      "rank": 49,
+      "displayRank": 49,
+      "penalty": 163081,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Марина Прутянова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7490,
+        "username": "lshp-2022-132",
+        "email": null,
+        "firstName": "Марина",
+        "lastName": "Прутянова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666590550747,
+        "lastLoggedTimeMs": 1656612520503,
+        "registerTimeMs": 1656605403188,
+        "createdAt": "2022-06-30T16:10:03.000Z",
+        "updatedAt": "2022-10-24T05:49:10.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76850,
+          "joinTimeMs": 1665243770376,
+          "userId": 7490,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "679:29",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "679:29",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "679:31",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:32",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 49,
+      "rank": 50,
+      "displayRank": 50,
+      "penalty": 163099,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Алексей Васильев",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8913,
+        "username": "alexeyv",
+        "email": "vasiliev.alexey.0210@yandex.ru",
+        "firstName": "Алексей",
+        "lastName": "Васильев",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666461303641,
+        "lastLoggedTimeMs": 1665238808202,
+        "registerTimeMs": 1665238782747,
+        "createdAt": "2022-10-08T14:19:42.000Z",
+        "updatedAt": "2022-10-22T17:55:03.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76849,
+          "joinTimeMs": 1665243760501,
+          "userId": 8913,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "679:33",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "679:34",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "679:35",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:37",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 50,
+      "rank": 51,
+      "displayRank": 51,
+      "penalty": 163116,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Александра Cтолярова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 4923,
+        "username": "SandraS",
+        "email": "k3naerofeeva@gmail.com",
+        "firstName": "Александра",
+        "lastName": "Cтолярова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666548273932,
+        "lastLoggedTimeMs": 1665243754693,
+        "registerTimeMs": 1632568175866,
+        "createdAt": "2021-09-25T11:09:35.000Z",
+        "updatedAt": "2022-10-23T18:04:33.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76857,
+          "joinTimeMs": 1665243876361,
+          "userId": 4923,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "679:36",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "679:37",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "679:41",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:42",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 51,
+      "rank": 52,
+      "displayRank": 52,
+      "penalty": 163136,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Vladimir Tsarkov",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8914,
+        "username": "vtsarkov",
+        "email": "vladimir.tsarkov02@gmail.com",
+        "firstName": "Vladimir",
+        "lastName": "Tsarkov",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666460079533,
+        "lastLoggedTimeMs": 1665846339338,
+        "registerTimeMs": 1665239470317,
+        "createdAt": "2022-10-08T14:31:10.000Z",
+        "updatedAt": "2022-10-22T17:34:39.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76846,
+          "joinTimeMs": 1665243740561,
+          "userId": 8914,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "679:30",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "679:31",
+          "inPractice": true
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "679:37",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:38",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 52,
+      "rank": 53,
+      "displayRank": 53,
+      "penalty": 163147,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Анастасия Платошкина",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 2872,
+        "username": "planast2011",
+        "email": "gplatosh@yandex.ru",
+        "firstName": "Анастасия",
+        "lastName": "Платошкина",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666460984687,
+        "lastLoggedTimeMs": 1666198716658,
+        "registerTimeMs": 1610539255873,
+        "createdAt": "2021-01-13T12:00:55.000Z",
+        "updatedAt": "2022-10-22T17:49:44.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76879,
+          "joinTimeMs": 1665244409633,
+          "userId": 2872,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "679:45",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "679:46",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "679:47",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:49",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 53,
+      "rank": 54,
+      "displayRank": 54,
+      "penalty": 163163,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Михаил Грачев",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8919,
+        "username": "L3MGD",
+        "email": "grm8820@gmail.com",
+        "firstName": "Михаил",
+        "lastName": "Грачев",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666461900119,
+        "lastLoggedTimeMs": 1666458129304,
+        "registerTimeMs": 1665244390357,
+        "createdAt": "2022-10-08T15:53:10.000Z",
+        "updatedAt": "2022-10-22T18:05:00.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76946,
+          "joinTimeMs": 1665245086955,
+          "userId": 8919,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "679:50",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "679:50",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "679:51",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:52",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 54,
+      "rank": 55,
+      "displayRank": 55,
+      "penalty": 163165,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Nikita Peskov",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8915,
+        "username": "nikarcher",
+        "email": "archervsicetimmy@gmail.com",
+        "firstName": "Nikita",
+        "lastName": "Peskov",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666367757454,
+        "lastLoggedTimeMs": 1666367756754,
+        "registerTimeMs": 1665240956547,
+        "createdAt": "2022-10-08T14:55:56.000Z",
+        "updatedAt": "2022-10-21T15:55:57.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76853,
+          "joinTimeMs": 1665243784688,
+          "userId": 8915,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "679:34",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "B",
+          "acceptedAt": "679:35",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "C",
+          "acceptedAt": "679:37",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:39",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 1,
+      "globalIndex": 55,
+      "rank": 56,
+      "displayRank": 56,
+      "penalty": 163178,
+      "acceptedSolutions": 4,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Алексей Андрушкевич",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8576,
+        "username": "mi-tog1",
+        "email": "mi-tog@ya.ru",
+        "firstName": "Алексей",
+        "lastName": "Андрушкевич",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666524430964,
+        "lastLoggedTimeMs": 1665240973965,
+        "registerTimeMs": 1664018481567,
+        "createdAt": "2022-09-24T11:21:21.000Z",
+        "updatedAt": "2022-10-23T11:27:10.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 76845,
+          "joinTimeMs": 1665243740052,
+          "userId": 8576,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+1",
+          "problemSymbol": "A",
+          "acceptedAt": "679:30",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "B",
+          "acceptedAt": "679:33",
+          "inPractice": true
+        },
+        {
+          "result": "+2",
+          "problemSymbol": "C",
+          "acceptedAt": "679:37",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "D",
+          "acceptedAt": "679:38",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 2,
+      "globalIndex": 56,
+      "rank": 57,
+      "displayRank": 57,
+      "penalty": 66,
+      "acceptedSolutions": 3,
+      "acceptedSolutionsInTime": 3,
+      "user": {
+        "fullName": "Иван Дементьев",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8108,
+        "username": "agamas",
+        "email": "agamas@internet.ru",
+        "firstName": "Иван",
+        "lastName": "Дементьев",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694720201,
+        "lastLoggedTimeMs": 1666693984639,
+        "registerTimeMs": 1662798206966,
+        "createdAt": "2022-09-10T08:23:26.000Z",
+        "updatedAt": "2022-10-25T10:45:20.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71678,
+          "joinTimeMs": 1662798226985,
+          "userId": 8108,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:12",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:13",
+          "inPractice": false
+        },
+        {
+          "result": "-4",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "00:21",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 2,
+      "globalIndex": 57,
+      "rank": 58,
+      "displayRank": 58,
+      "penalty": 126,
+      "acceptedSolutions": 3,
+      "acceptedSolutionsInTime": 3,
+      "user": {
+        "fullName": "Полина Стефанович",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8077,
+        "username": "losos666@mama",
+        "email": "polinastefanovich11@gmail.com",
+        "firstName": "Полина",
+        "lastName": "Стефанович",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666696647243,
+        "lastLoggedTimeMs": 1666692542624,
+        "registerTimeMs": 1662797245921,
+        "createdAt": "2022-09-10T08:07:25.000Z",
+        "updatedAt": "2022-10-25T11:17:27.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71655,
+          "joinTimeMs": 1662797784316,
+          "userId": 8077,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "00:03",
+          "inPractice": false
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:31",
+          "inPractice": false
+        },
+        {
+          "result": "-2",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "D",
+          "acceptedAt": "00:32",
+          "inPractice": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 2,
+      "globalIndex": 58,
+      "rank": 59,
+      "displayRank": 59,
+      "penalty": 13643,
+      "acceptedSolutions": 3,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Николай Прытков",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7048,
+        "username": "n.prytkov",
+        "email": "dobromoe@mail.ru",
+        "firstName": "Николай",
+        "lastName": "Прытков",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666438177322,
+        "lastLoggedTimeMs": 1664867180969,
+        "registerTimeMs": 1649514836028,
+        "createdAt": "2022-04-09T14:33:56.000Z",
+        "updatedAt": "2022-10-22T11:29:37.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71838,
+          "joinTimeMs": 1663068439484,
+          "userId": 7048,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "75:24",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "75:27",
+          "inPractice": true
+        },
+        {
+          "result": "+3",
+          "problemSymbol": "C",
+          "acceptedAt": "75:32",
+          "inPractice": true
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 2,
+      "globalIndex": 59,
+      "rank": 60,
+      "displayRank": 60,
+      "penalty": 27516,
+      "acceptedSolutions": 3,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Александр Левин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8094,
+        "username": "allevin2030@gmail.com",
+        "email": "allevin2030@gmail.com",
+        "firstName": "Александр",
+        "lastName": "Левин",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666693844837,
+        "lastLoggedTimeMs": 1666692861332,
+        "registerTimeMs": 1662797882882,
+        "createdAt": "2022-09-10T08:18:02.000Z",
+        "updatedAt": "2022-10-25T10:30:44.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71800,
+          "joinTimeMs": 1663056889108,
+          "userId": 8094,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "152:44",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "152:45",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "C",
+          "acceptedAt": "152:47",
+          "inPractice": true
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 2,
+      "globalIndex": 60,
+      "rank": 61,
+      "displayRank": 61,
+      "penalty": 49134,
+      "acceptedSolutions": 3,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Дмитрий Мышелов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8093,
+        "username": "дмитрий мышелов",
+        "email": "myshelov.dmitriy@mail.ru",
+        "firstName": "Дмитрий",
+        "lastName": "Мышелов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694686516,
+        "lastLoggedTimeMs": 1666692897716,
+        "registerTimeMs": 1662797858220,
+        "createdAt": "2022-09-10T08:17:38.000Z",
+        "updatedAt": "2022-10-25T10:44:46.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71673,
+          "joinTimeMs": 1662798104551,
+          "userId": 8093,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+4",
+          "problemSymbol": "A",
+          "acceptedAt": "168:29",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "B",
+          "acceptedAt": "324:06",
+          "inPractice": true
+        },
+        {
+          "result": "-3",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "D",
+          "acceptedAt": "324:19",
+          "inPractice": true
+        }
+      ]
+    },
+    {
+      "groupNumber": 3,
+      "globalIndex": 61,
+      "rank": 62,
+      "displayRank": 62,
+      "penalty": 4268,
+      "acceptedSolutions": 2,
+      "acceptedSolutionsInTime": 1,
+      "user": {
+        "fullName": "Алексакндр Шорохов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8089,
+        "username": "qwasto4",
+        "email": "Sasha.shorokhov2010@gmail.com",
+        "firstName": "Алексакндр",
+        "lastName": "Шорохов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666698435798,
+        "lastLoggedTimeMs": 1666695942585,
+        "registerTimeMs": 1662797759029,
+        "createdAt": "2022-09-10T08:15:59.000Z",
+        "updatedAt": "2022-10-25T11:47:15.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71656,
+          "joinTimeMs": 1662797787584,
+          "userId": 8089,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+1",
+          "problemSymbol": "A",
+          "acceptedAt": "70:27",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "00:21",
+          "inPractice": false
+        },
+        {
+          "result": "-2",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 3,
+      "globalIndex": 62,
+      "rank": 63,
+      "displayRank": 63,
+      "penalty": 8716,
+      "acceptedSolutions": 2,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Амирхан шайхисламов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8114,
+        "username": "Амирхан",
+        "email": "Shaykhislamov.amirkhan@gmail.com",
+        "firstName": "Амирхан",
+        "lastName": "шайхисламов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666696056377,
+        "lastLoggedTimeMs": 1666693882347,
+        "registerTimeMs": 1662798831205,
+        "createdAt": "2022-09-10T08:33:51.000Z",
+        "updatedAt": "2022-10-25T11:07:36.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71689,
+          "joinTimeMs": 1662798896109,
+          "userId": 8114,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "72:27",
+          "inPractice": true
+        },
+        {
+          "result": "+1",
+          "problemSymbol": "B",
+          "acceptedAt": "72:29",
+          "inPractice": true
+        },
+        {
+          "result": "-2",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "-3",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 3,
+      "globalIndex": 63,
+      "rank": 64,
+      "displayRank": 64,
+      "penalty": 49275,
+      "acceptedSolutions": 2,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Екатерина Лузанова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8726,
+        "username": "e.luzanova",
+        "email": "luzanova@mail.ru",
+        "firstName": "Екатерина",
+        "lastName": "Лузанова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666431337566,
+        "lastLoggedTimeMs": 1666422520091,
+        "registerTimeMs": 1664273492973,
+        "createdAt": "2022-09-27T10:11:32.000Z",
+        "updatedAt": "2022-10-22T09:35:37.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 74255,
+          "joinTimeMs": 1664273760469,
+          "userId": 8726,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+2",
+          "problemSymbol": "A",
+          "acceptedAt": "410:19",
+          "inPractice": true
+        },
+        {
+          "result": "+",
+          "problemSymbol": "B",
+          "acceptedAt": "410:16",
+          "inPractice": true
+        },
+        {
+          "result": "-2",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 4,
+      "globalIndex": 64,
+      "rank": 65,
+      "displayRank": 65,
+      "penalty": 112,
+      "acceptedSolutions": 1,
+      "acceptedSolutionsInTime": 1,
+      "user": {
+        "fullName": "test test",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8102,
+        "username": "test.test",
+        "email": "test@test.test",
+        "firstName": "test",
+        "lastName": "test",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1662806014837,
+        "lastLoggedTimeMs": 1662803505719,
+        "registerTimeMs": 1662798041197,
+        "createdAt": "2022-09-10T08:20:41.000Z",
+        "updatedAt": "2022-09-10T10:33:34.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71671,
+          "joinTimeMs": 1662798070432,
+          "userId": 8102,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "01:52",
+          "inPractice": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 4,
+      "globalIndex": 65,
+      "rank": 66,
+      "displayRank": 66,
+      "penalty": 5258,
+      "acceptedSolutions": 1,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Администратор",
+        "isAdmin": true,
+        "isModerator": false,
+        "isSupervisor": true,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 4096,
+          "name": "Admin"
+        },
+        "id": 2,
+        "username": "admin",
+        "email": "programming-acm@misis.ru",
+        "firstName": "Администратор",
+        "lastName": " ",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666770420804,
+        "lastLoggedTimeMs": 1666770227670,
+        "registerTimeMs": 0,
+        "createdAt": "2017-03-02T15:49:19.000Z",
+        "updatedAt": "2022-10-26T07:47:00.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71681,
+          "joinTimeMs": 1662798275730,
+          "userId": 2,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "+",
+          "problemSymbol": "A",
+          "acceptedAt": "87:38",
+          "inPractice": true
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "-1",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 66,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Аделя Айметова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8096,
+        "username": "+79277007093",
+        "email": "nelaajmetova@gmail.com",
+        "firstName": "Аделя",
+        "lastName": "Айметова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1662799126419,
+        "lastLoggedTimeMs": 1662797913578,
+        "registerTimeMs": 1662797899002,
+        "createdAt": "2022-09-10T08:18:19.000Z",
+        "updatedAt": "2022-09-10T08:38:46.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71665,
+          "joinTimeMs": 1662797921714,
+          "userId": 8096,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 67,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Алина Шарафутдинова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8098,
+        "username": "Sharf",
+        "email": "shdfalina@gmail.com",
+        "firstName": "Алина",
+        "lastName": "Шарафутдинова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666698611513,
+        "lastLoggedTimeMs": 1666696731753,
+        "registerTimeMs": 1662797976398,
+        "createdAt": "2022-09-10T08:19:36.000Z",
+        "updatedAt": "2022-10-25T11:50:11.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71677,
+          "joinTimeMs": 1662798209386,
+          "userId": 8098,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "-4",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "-1",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "-3",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "-3",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 68,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Миша Пол Миша Пол",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8115,
+        "username": "ADkkn",
+        "email": "mpolovinkin159@gmail.com",
+        "firstName": "Миша Пол",
+        "lastName": "Миша Пол",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694698964,
+        "lastLoggedTimeMs": 1666692588902,
+        "registerTimeMs": 1662798864565,
+        "createdAt": "2022-09-10T08:34:24.000Z",
+        "updatedAt": "2022-10-25T10:44:58.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71690,
+          "joinTimeMs": 1662798938073,
+          "userId": 8115,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "-1",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 69,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Григорий Иваненко",
+        "isAdmin": true,
+        "isModerator": false,
+        "isSupervisor": true,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 4096,
+          "name": "Admin"
+        },
+        "id": 6234,
+        "username": "g.ivanenko",
+        "email": "13224@1213234.ru",
+        "firstName": "Григорий",
+        "lastName": "Иваненко",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666605063488,
+        "lastLoggedTimeMs": 1666599465448,
+        "registerTimeMs": 1636102688723,
+        "createdAt": "2021-11-05T08:58:08.000Z",
+        "updatedAt": "2022-10-24T09:51:03.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71729,
+          "joinTimeMs": 1662970180860,
+          "userId": 6234,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 70,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "ЛШП NlogN (Админ)",
+        "isAdmin": true,
+        "isModerator": false,
+        "isSupervisor": true,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 4096,
+          "name": "Admin"
+        },
+        "id": 3639,
+        "username": "nlognadmin",
+        "email": "support@nlogn.info",
+        "firstName": "ЛШП",
+        "lastName": "NlogN (Админ)",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666695211990,
+        "lastLoggedTimeMs": 1666695026192,
+        "registerTimeMs": 1624033931986,
+        "createdAt": "2021-06-18T16:32:11.000Z",
+        "updatedAt": "2022-10-25T10:53:31.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71812,
+          "joinTimeMs": 1663057539282,
+          "userId": 3639,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "-2",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 71,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Аделя Айметова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8130,
+        "username": "Koro",
+        "email": "ttt@ttt.ttt",
+        "firstName": "Аделя",
+        "lastName": "Айметова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1663067463848,
+        "lastLoggedTimeMs": 1663058502952,
+        "registerTimeMs": 1663058454479,
+        "createdAt": "2022-09-13T08:40:54.000Z",
+        "updatedAt": "2022-09-13T11:11:03.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71819,
+          "joinTimeMs": 1663058633546,
+          "userId": 8130,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "-1",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 72,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Марко Делла Пиетра",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7080,
+        "username": " Marco ",
+        "email": "marco8dp@icloud.com",
+        "firstName": "Марко",
+        "lastName": "Делла Пиетра ",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666426820614,
+        "lastLoggedTimeMs": 1666076739339,
+        "registerTimeMs": 1649577611481,
+        "createdAt": "2022-04-10T08:00:11.000Z",
+        "updatedAt": "2022-10-22T08:20:20.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 71829,
+          "joinTimeMs": 1663067516561,
+          "userId": 7080,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 73,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Anna Berdichevskaia",
+        "isAdmin": true,
+        "isModerator": false,
+        "isSupervisor": true,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 4096,
+          "name": "Admin"
+        },
+        "id": 2748,
+        "username": "tak_i_planirovalos",
+        "email": "anna_grigorievna@list.ru",
+        "firstName": "Anna",
+        "lastName": "Berdichevskaia",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666458775734,
+        "lastLoggedTimeMs": 1666458430610,
+        "registerTimeMs": 1606239461304,
+        "createdAt": "2020-11-24T17:37:41.000Z",
+        "updatedAt": "2022-10-22T17:12:55.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 72047,
+          "joinTimeMs": 1663353507243,
+          "userId": 2748,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 74,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Пётр Абрамов",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8149,
+        "username": "Петр",
+        "email": "petr_abr@mail.ru",
+        "firstName": "Пётр",
+        "lastName": "Абрамов",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666695722334,
+        "lastLoggedTimeMs": 1666692773131,
+        "registerTimeMs": 1663354054631,
+        "createdAt": "2022-09-16T18:47:34.000Z",
+        "updatedAt": "2022-10-25T11:02:02.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 72051,
+          "joinTimeMs": 1663354096414,
+          "userId": 8149,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "-2",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "-1",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "-1",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 75,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Арина Рыжкова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 7026,
+        "username": "RYZHKOVA ",
+        "email": "omega_inna@mail.ru",
+        "firstName": "Арина",
+        "lastName": "Рыжкова ",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666695894013,
+        "lastLoggedTimeMs": 1666692738739,
+        "registerTimeMs": 1649507164434,
+        "createdAt": "2022-04-09T12:26:04.000Z",
+        "updatedAt": "2022-10-25T11:04:54.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 72071,
+          "joinTimeMs": 1663395367565,
+          "userId": 7026,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 76,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Анна Вартапетова",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 4324,
+        "username": "vartapetova1",
+        "email": "vartapetova2009@yandex.ru",
+        "firstName": "Анна",
+        "lastName": "Вартапетова",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666426842156,
+        "lastLoggedTimeMs": 1666077203509,
+        "registerTimeMs": 1631344200964,
+        "createdAt": "2021-09-11T07:10:00.000Z",
+        "updatedAt": "2022-10-22T08:20:42.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 73010,
+          "joinTimeMs": 1664004152878,
+          "userId": 4324,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 77,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Арсений  Косенкин",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 4757,
+        "username": "Oksver@mail.ru ",
+        "email": "Oksver@mail.ru",
+        "firstName": "Арсений ",
+        "lastName": "Косенкин ",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666694720216,
+        "lastLoggedTimeMs": 1666692921848,
+        "registerTimeMs": 1632504599412,
+        "createdAt": "2021-09-24T17:29:59.000Z",
+        "updatedAt": "2022-10-25T10:45:20.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 75993,
+          "joinTimeMs": 1664878693236,
+          "userId": 4757,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 78,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "Владислав Суриков",
+        "isAdmin": false,
+        "isModerator": false,
+        "isSupervisor": false,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 256,
+          "name": "User"
+        },
+        "id": 8923,
+        "username": "SurikovV",
+        "email": "Surikovv01@rambler.ru",
+        "firstName": "Владислав",
+        "lastName": "Суриков",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666489792482,
+        "lastLoggedTimeMs": 1666358232592,
+        "registerTimeMs": 1665274046460,
+        "createdAt": "2022-10-09T00:07:26.000Z",
+        "updatedAt": "2022-10-23T01:49:52.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 77156,
+          "joinTimeMs": 1665293751917,
+          "userId": 8923,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    },
+    {
+      "groupNumber": 5,
+      "globalIndex": 79,
+      "rank": 67,
+      "displayRank": "67-80",
+      "penalty": 0,
+      "acceptedSolutions": 0,
+      "acceptedSolutionsInTime": 0,
+      "user": {
+        "fullName": "ЛШП 2022",
+        "isAdmin": true,
+        "isModerator": false,
+        "isSupervisor": true,
+        "password": "(hidden)",
+        "accessGroup": {
+          "mask": 4096,
+          "name": "Admin"
+        },
+        "id": 7227,
+        "username": "l.2022",
+        "email": "lshp@2020.ru",
+        "firstName": "ЛШП",
+        "lastName": "2022",
+        "solvedCount": 0,
+        "isBan": false,
+        "recentActivityTimeMs": 1666771974705,
+        "lastLoggedTimeMs": 1666771937471,
+        "registerTimeMs": 1650878316759,
+        "createdAt": "2022-04-25T09:18:36.000Z",
+        "updatedAt": "2022-10-26T08:12:54.000Z",
+        "deletedAt": null,
+        "UserContestEnter": {
+          "id": 80086,
+          "joinTimeMs": 1666626053386,
+          "userId": 7227,
+          "contestId": 2922
+        }
+      },
+      "cells": [
+        {
+          "result": "—",
+          "problemSymbol": "A",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "B",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "C",
+          "cellFrozen": false
+        },
+        {
+          "result": "—",
+          "problemSymbol": "D",
+          "cellFrozen": false
+        }
+      ]
+    }
+  ],
+  "rowsNumber": 80,
+  "actualTableHash": {
+    "hash": "76cb6f5057030f3057ca4db53edeb133",
+    "createdAtMs": 1666771974803
+  },
+  "isPastQuery": false,
+  "lastSolutionSentAtMs": 1666693583972
+}
